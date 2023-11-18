@@ -1,4 +1,4 @@
 # demo-repo
 Demo repository for learning purpose
 
-##Author:- Amit Verma
+## Author:- Amit Verma
